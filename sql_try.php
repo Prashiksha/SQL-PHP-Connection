@@ -1,4 +1,5 @@
 <?php 
+//establishing server and user details
 $servername = "localhost";
 $username = "prashiksha";
 $password = "your password";
